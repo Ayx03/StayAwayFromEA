@@ -15,4 +15,6 @@ EA 是我见过**最烂**的游戏公司，如果你玩游戏不是为了给自�
 
 ![dontbuyeasgames](https://github.com/Ayx03/EA/assets/75155322/34f1d628-80fc-4f89-a9b7-1daa38ff7e41)
 
-![image](https://github.com/Ayx03/EA/assets/75155322/14582756-6c00-4c4f-a272-382ded9e38ce)
+![EA Help Email](https://github.com/Ayx03/EA/assets/75155322/14582756-6c00-4c4f-a272-382ded9e38ce)
+
+![EA Help Email](https://github.com/Ayx03/StayAwayFromEA/assets/75155322/5f49053d-db91-41ff-a0dc-3895cfc6711f)
