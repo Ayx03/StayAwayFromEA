@@ -5,12 +5,15 @@ EA is the **worst** gaming company I've ever encountered. If you play games to h
 
 - In the process of playing games with friends, four accounts have already been banned.
 - The reasons provided are all empty.
-- Appeals (Dispute) have only three chances, and once exceeded, they will ignore you.
-- After waiting for half a day, EA responds to your email with a copy-paste:
-  - `We have conducted a thorough investigation.`
-  - `We found that the account suspension is correct.`
-  - `We have conducted all possible investigations and will not reverse this decision.`
-- Since they have thoroughly investigated, they should at least provide a reason for the ban. Sorry, this is our "internal procedure," and we can't tell you.
+- You only have three chances to Dispute, once you exceeded, they will ignore you.
+- After waiting for days, EA responds to your email with a copy-paste:
+  - After thoroughly investigating your account and concern, we found that your account *was actioned correctly*, and the sanction will remain in place
+    - Correctly WHAT? Is it that hard to give me a ****ING REASON? 
+  - After thoroughly investigating your account and concern, we again found that we actioned your account correctly after it was found to have violated our User Agreement. We will also be unable to provide any details regarding our internal procedures.
+    - What the F\**K did you F\**King investigate? Is it okay with you if the judge just tell you to read the law yourself to find out what you did wrong that makes you in jail for the rest of your life?
+  - `We have conducted all possible investigations and will not reverse this decision. Please do not expect further responses on this matter.`
+    - I shouldn't expect any actual help from you, ever. Go f**k yourselves.
+- Since they have thoroughly investigated, they should at least provide a reason for the ban. Sorry, this is our "internal procedure", therefore we can't tell you anything.
 - Finding online customer service is more challenging than reaching the sky. EA has built a maze for you, and it's called EA Help.
 - Confronting EA's online customer service during off-peak hours is likely futile. Besides helping you submit an appeal, they can't do much else.
 - Online customer service may end the conversation without waiting for your reply. After the session ends, you cannot view the conversation history, and EA won't provide an archive of the session content.
