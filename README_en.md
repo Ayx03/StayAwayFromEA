@@ -1,5 +1,5 @@
 # Stay Away from EA
-[中文原文](https://github.com/Ayx03/StayAwayFromEA/blob/main/README.md)
+[中文原文](/README.md)
 
 EA is the **worst** gaming company I've ever encountered. If you play games to have a good time and not to subject yourself to misery, **stay away from Electronic Arts (EA), and do not buy any of their games.**
 
