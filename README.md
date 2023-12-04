@@ -1,5 +1,5 @@
 # 远离 EA
-[English version translated by ChatGPT](https://github.com/Ayx03/StayAwayFromEA/blob/main/README_en.md)
+[English version translated by ChatGPT](/README_en.md)
 
 EA 是我见过**最烂**的游戏公司，如果你玩游戏不是为了给自己找罪受，**远离艺电，不要买它们的任何游戏。**
 
